@@ -14,9 +14,9 @@ Outside of coding, I'm a big fan of console gaming. I love getting lost in the i
 
 ### My skills
 <p align="left">
-  <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=efefef"/>&nbsp;
-  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=efefef")/>&nbsp;
-  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=efefef")/>&nbsp;
+  <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=orange&color=ff7e00"/>&nbsp;
+  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=orange&color=ff7e00")/>&nbsp;
+  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=orange&color=ff7e00")/>&nbsp;
 </p>
 
 ##
