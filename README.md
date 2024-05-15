@@ -20,5 +20,3 @@ Outside of coding, I'm a big fan of console gaming. I love getting lost in the i
 </p>
 
 ##
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cnbjjj&theme=high-contrast&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
