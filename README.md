@@ -25,3 +25,7 @@ A React site prototype
 #### [NavTab](https://github.com/cnbjjj/navigation-tabs)
 A simple tutorial on implementing a tab-based navigation  
 [![Screenshot](https://github.com/cnbjjj/navigation-tabs/blob/main/assets/img/screenshot.png?raw=true)](https://github.com/cnbjjj/navigation-tabs)
+
+#### [GitHub Api](https://github.com/cnbjjj/practice-react-ghapi)
+A React app that fetches data from the GitHub API  
+[![Screenshot](https://github.com/cnbjjj/practice-react-ghapi/blob/gh-pages/screenshot.png?raw=true)](https://github.com/cnbjjj/practice-react-ghapi)
