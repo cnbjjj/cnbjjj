@@ -6,6 +6,22 @@ Outside of coding, I'm a big fan of console gaming. I love getting lost in the i
 
 Click the images to view the repositories.
 
-#### [Speed Typing](https://github.com/cnbjjj/practice-typing-game)
-[![Screenshot](https://github.com/cnbjjj/practice-typing-game/blob/main/assets/img/screenshot.png?raw=true
-)](https://github.com/cnbjjj/practice-typing-game)
+#### [Speed Typing](https://github.com/cnbjjj/speed-typing)
+A simple JavaScript game  
+[![Screenshot](https://github.com/cnbjjj/speed-typing/blob/dev/assets/img/screenshot.png?raw=true)](https://github.com/cnbjjj/speed-typing)
+
+#### [Todo List](https://github.com/cnbjjj/practice-react-todolist)
+A React todo list  
+[![Screenshot](https://github.com/cnbjjj/practice-react-todolist/blob/gh-pages/screenshot.png?raw=true)](https://github.com/cnbjjj/practice-react-todolist)
+
+#### [Movie Finder](https://github.com/cnbjjj/movie-finder)
+A JavaScript fetch API practice  
+[![Screenshot](https://github.com/cnbjjj/movie-finder/blob/main/assets/img/screenshot.png?raw=true)](https://github.com/cnbjjj/movie-finder)
+
+#### [UrbanBite](https://github.com/cnbjjj/practice-react-urbanbite)
+A React site prototype  
+[![Screenshot](https://github.com/cnbjjj/practice-react-urbanbite/blob/gh-pages/assets/img/screenshot.jpg?raw=true)](https://github.com/cnbjjj/practice-react-urbanbite)
+
+#### [NavTab](https://github.com/cnbjjj/navigation-tabs)
+A simple tutorial on implementing a tab-based navigation  
+[![Screenshot](https://github.com/cnbjjj/navigation-tabs/blob/main/assets/img/screenshot.png?raw=true)](https://github.com/cnbjjj/navigation-tabs)
