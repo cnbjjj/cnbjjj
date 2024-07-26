@@ -10,13 +10,13 @@ Outside of coding, I'm a big fan of console gaming. I love getting lost in the i
 
 ### My skills
 <p align="left">
-  <img src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=red&color=ddd"/>&nbsp;
-  <img src="https://img.shields.io/badge/html-informational?style=for-the-badge&logo=html5&logoColor=red&color=ddd")/>&nbsp;
-  <img src="https://img.shields.io/badge/css-informational?style=for-the-badge&logo=css3&logoColor=red&color=ddd")/>&nbsp;
-  <img src="https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&logoColor=red&color=ddd")/>&nbsp;
-  <img src="https://img.shields.io/badge/nodejs-informational?style=for-the-badge&logo=nodejs&logoColor=red&color=ddd")/>&nbsp;
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=red&color=ddd")/>&nbsp;
-  <img src="https://img.shields.io/badge/dotnet-informational?style=for-the-badge&logo=dotnet&logoColor=red&color=ddd")/>&nbsp;
+  <img src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=JJ&logoColor=red&color=ddd"/>&nbsp;
+  <img src="https://img.shields.io/badge/html-informational?style=for-the-badge&logo=JJ&logoColor=red&color=ddd")/>&nbsp;
+  <img src="https://img.shields.io/badge/css-informational?style=for-the-badge&logo=JJ&logoColor=red&color=ddd")/>&nbsp;
+  <img src="https://img.shields.io/badge/react-informational?style=for-the-badge&logo=JJ&logoColor=red&color=ddd")/>&nbsp;
+  <img src="https://img.shields.io/badge/nodejs-informational?style=for-the-badge&logo=JJ&logoColor=red&color=ddd")/>&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=JJ&logoColor=red&color=ddd")/>&nbsp;
+  <img src="https://img.shields.io/badge/dotnet-informational?style=for-the-badge&logo=JJ&logoColor=red&color=ddd")/>&nbsp;
   <img src="https://img.shields.io/badge/sqlserver-informational?style=for-the-badge&logo=sqlserver&logoColor=red&color=ddd")/>&nbsp;
   <img src="https://img.shields.io/badge/SQL-informational?style=for-the-badge&logo=SQL&logoColor=red&color=ddd")/>&nbsp;
 </p>
