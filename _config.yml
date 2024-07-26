@@ -9,3 +9,8 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 theme: jekyll-theme-minimal
+
+# Site settings
+title: "JJ"
+description: "Portal of My Repos"
+
